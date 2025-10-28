@@ -1,0 +1,23 @@
+{
+    "fruityFresh": "Fruity Fresh",
+    "products": "Products",
+    "cart": "Cart",
+    "ourFreshProducts": "Our Fresh Products",
+    "qty": "Qty:",
+    "addToCart": "Add to Cart",
+    "added": "Added!",
+    "backToProducts": "Back to Products",
+    "productNotFound": "Product not found.",
+    "yourCartIsEmpty": "Your Cart is Empty",
+    "cartEmptyMessage": "Looks like you haven't added any fruits yet.",
+    "browseProducts": "Browse Products",
+    "shoppingCart": "Shopping Cart",
+    "total": "Total:",
+    "proceedToCheckout": "Proceed to Checkout",
+    "remove": "Remove",
+    "checkoutSummary": "Checkout Summary",
+    "grandTotal": "Grand Total:",
+    "processOrder": "Process Order",
+    "thankYou": "Thank You!",
+    "orderSuccessMessage": "Your order has been processed successfully."
+}

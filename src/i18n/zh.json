@@ -1,0 +1,23 @@
+{
+    "fruityFresh": "果鲜生",
+    "products": "商品",
+    "cart": "购物车",
+    "ourFreshProducts": "新鲜水果",
+    "qty": "数量：",
+    "addToCart": "加入购物车",
+    "added": "已添加！",
+    "backToProducts": "返回商品列表",
+    "productNotFound": "未找到商品",
+    "yourCartIsEmpty": "您的购物车是空的",
+    "cartEmptyMessage": "看起来您还没有添加任何水果。",
+    "browseProducts": "浏览商品",
+    "shoppingCart": "购物车",
+    "total": "总计：",
+    "proceedToCheckout": "去结算",
+    "remove": "移除",
+    "checkoutSummary": "结算摘要",
+    "grandTotal": "合计：",
+    "processOrder": "处理订单",
+    "thankYou": "谢谢！",
+    "orderSuccessMessage": "您的订单已成功处理。"
+}
